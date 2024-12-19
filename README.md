@@ -16,7 +16,7 @@ This assignment focuses on implementing a doubly linked list data structure. It 
 
 ### **3.Graph Traversal Algorithm Program**  
 **Description:**  
-This project assignment implementing graph traversal algorithms like BFS (Breadth-First Search) and DFS (Depth-First Search) on a graph data structure. Test cases are provided to validate the traversal logic.
+This assignment involves implementing graph traversal algorithms like BFS (Breadth-First Search) and DFS (Depth-First Search) on a graph data structure. Test cases are provided to validate the traversal logic.
 
 ---
 ## **Technologies and Tools Used**
